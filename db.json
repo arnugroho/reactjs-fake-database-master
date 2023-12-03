@@ -1,0 +1,75 @@
+{
+  "pengguna": [
+    {
+      "id": 1,
+      "username": "test",
+      "email": "ane@gmail.com",
+      "password": "password"
+    },
+    {
+      "username": "a",
+      "email": "Prosigmaka@gmail.com",
+      "password": "a",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "username": "ab",
+      "email": "Prosigmaka@gmail.com",
+      "password": "ab",
+      "id": 4
+    }
+  ],
+  "candidate": [
+    {
+      "nama": "Aldy Gunawan",
+      "jenisKelamin": "Laki-laki",
+      "tempatLahir": "sa",
+      "tanggalLahir": "2021-04-24",
+      "alamat": "Gunung",
+      "email": "aaaa@gmail.com",
+      "noHp": "+6282838383883",
+      "id": 1
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "tittle": "Soto",
+      "content": "Sample text, bebas diisi apa saja yang baik-baik sesuka hati anda",
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 2,
+      "tittle": "Bakso",
+      "content": "Sample text, bebas diisi apa saja yang baik-baik sesuka hati anda",
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 3,
+      "tittle": "Sate",
+      "content": "Sample text, bebas diisi apa saja yang baik-baik sesuka hati anda",
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 4,
+      "tittle": "Rendang",
+      "content": "Sample text, bebas diisi apa saja yang baik-baik sesuka hati anda",
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 5,
+      "tittle": "Sop Ayam",
+      "content": "Sample text, bebas diisi apa saja yang baik-baik sesuka hati anda",
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 6,
+      "tittle": "Sayur Bayam",
+      "content": "Sample text, bebas diisi apa saja yang baik-baik sesuka hati anda",
+      "image": "https://source.unsplash.com/random"
+    }
+  ]
+}
